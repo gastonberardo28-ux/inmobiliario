@@ -1,0 +1,374 @@
+[
+ {
+  "id": "deanfunes1449",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-3822360140-venta-depto-florida-3-amben-dulex-pa-con-cochera-y-amenitiesant-y-fnanciacion-30-cuotas-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-3822360140-venta-depto-florida-3-amben-dulex-pa-con-cochera-y-amenitiesant-y-fnanciacion-30-cuotas-_JM",
+   "len": 686473,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "deanfunes1449",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA3822360140",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA3822360140",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "antartida2160",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-venta-florida-3-ambientes-con-terraza-58096667.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-venta-florida-3-ambientes-con-terraza-58096667.html",
+   "len": 6116,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "balbin3194",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-balbin-3194-saavedra-en-construccion-52555116.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-balbin-3194-saavedra-en-construccion-52555116.html",
+   "len": 6071,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "ugarte2055",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-1947817111-olivos-departamento-3-ambientes-2-banos-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-1947817111-olivos-departamento-3-ambientes-2-banos-_JM",
+   "len": 678100,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "ugarte2055",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA1947817111",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA1947817111",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "altosnunez",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-altos-de-nunez-57373774.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-altos-de-nunez-57373774.html",
+   "len": 5974,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "melian2781",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-3-ambientes-de-pozo-en-coghlan-60022862.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-3-ambientes-de-pozo-en-coghlan-60022862.html",
+   "len": 6074,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "pinto4785",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-pinto-4785-saavedra-capital-federal-58427898.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-pinto-4785-saavedra-capital-federal-58427898.html",
+   "len": 6059,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "esmeralda3300",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-venta-en-pozo-en-florida-oeste-58852172.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-venta-en-pozo-en-florida-oeste-58852172.html",
+   "len": 6035,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "krystal",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-maipu-3872-krystal-park-tower-exclusiva-torre-55917544.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-maipu-3872-krystal-park-tower-exclusiva-torre-55917544.html",
+   "len": 6119,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "nunez2300",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2193687771-venta-tres-ambientes-balcon-nunez-desde-pozo-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-2193687771-venta-tres-ambientes-balcon-nunez-desde-pozo-_JM",
+   "len": 703925,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "nunez2300",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA2193687771",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA2193687771",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "jaramillo4300",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-1986550263-divino-departamento-de-3-ambientes-con-balcon-terraza-y-toilette-en-construccion-en-saavedra-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-1986550263-divino-departamento-de-3-ambientes-con-balcon-terraza-y-toilette-en-construccion-en-saavedra-_JM",
+   "len": 717994,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "jaramillo4300",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA1986550263",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA1986550263",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "esmeralda4520",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-esmeralda-4520-58509119.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-esmeralda-4520-58509119.html",
+   "len": 5974,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "vilela2630",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vilela-2630-saavedra-en-construccion-56926707.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vilela-2630-saavedra-en-construccion-56926707.html",
+   "len": 6062,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "vincent",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vincent-58677215.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vincent-58677215.html",
+   "len": 5932,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "laprida2475",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-laprida-2475-florida-58287007.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-laprida-2475-florida-58287007.html",
+   "len": 5992,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "conde2700",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-conde-2700-56056273.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-conde-2700-56056273.html",
+   "len": 5962,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "sanmartin2200",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2232074593-venta-departamento-florida-vicente-lopez-3-dormitorios-2-banos-en-construccion-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-2232074593-venta-departamento-florida-vicente-lopez-3-dormitorios-2-banos-en-construccion-_JM",
+   "len": 703484,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "sanmartin2200",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA2232074593",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA2232074593",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "borges2700",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-planta-baja-con-patio-59964712.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-planta-baja-con-patio-59964712.html",
+   "len": 6056,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "nest3amb",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-pozo-en-vicente-lopez-60285472.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-pozo-en-vicente-lopez-60285472.html",
+   "len": 6056,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "melian3534",
+  "page": {
+   "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-de-2-ambientes-en-pozo-venta-saavedra-60403196.html",
+   "status": 403,
+   "final": "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-de-2-ambientes-en-pozo-venta-saavedra-60403196.html",
+   "len": 6116,
+   "title": "Just a moment...",
+   "snippet": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
+   "marks": [
+    "Just a moment"
+   ]
+  }
+ },
+ {
+  "id": "besares2325",
+  "page": {
+   "url": "https://departamento.mercadolibre.com.ar/MLA-2189876907-departamento-dos-ambientes-en-venta-en-pozo-barrio-de-nunez-ciudad-autonoma-de-bs-as-_JM",
+   "status": 200,
+   "final": "https://departamento.mercadolibre.com.ar/MLA-2189876907-departamento-dos-ambientes-en-venta-en-pozo-barrio-de-nunez-ciudad-autonoma-de-bs-as-_JM",
+   "len": 683074,
+   "snippet": "<!DOCTYPE html><html lang=\"es-AR\" data-assets-prefix=\"https://http2.mlstatic.com/frontend-assets/vpp-frontend/\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"https://http2.mlstatic.com\" crossorigin=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=5.",
+   "marks": [
+    "captcha",
+    "\"status\""
+   ]
+  }
+ },
+ {
+  "id": "besares2325",
+  "api": {
+   "url": "https://api.mercadolibre.com/items/MLA2189876907",
+   "status": 403,
+   "final": "https://api.mercadolibre.com/items/MLA2189876907",
+   "len": 143,
+   "snippet": "{\"blocked_by\":\"PolicyAgent\",\"code\":\"PA_UNAUTHORIZED_RESULT_FROM_POLICIES\",\"message\":\"At least one policy returned UNAUTHORIZED.\",\"status\":403} ",
+   "marks": [
+    "\"status\""
+   ]
+  }
+ }
+]
