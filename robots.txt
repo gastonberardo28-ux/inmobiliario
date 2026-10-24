@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://gastonberardo28-ux.github.io/inmobiliario/sitemap.xml
