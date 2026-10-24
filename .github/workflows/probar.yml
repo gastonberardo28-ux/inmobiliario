@@ -1,0 +1,16 @@
+name: Probar fuentes (temporal)
+on:
+  push:
+    branches: [chequeo-links]
+permissions:
+  contents: write
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/probar-fuentes.mjs
+      - run: |
+          mkdir r && mv reporte.json r/ && cd r && git init -q -b reporte-links && git -c user.name=ci -c user.email=ci@users.noreply.github.com add -A && git -c user.name=ci -c user.email=ci@users.noreply.github.com commit -qm reporte && git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" reporte-links
