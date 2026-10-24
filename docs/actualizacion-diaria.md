@@ -56,12 +56,21 @@ Las tarjetas son `li.ui-search-layout__item`. En el aviso, leer la tabla de supe
 
 `estudiokohon.com`, `grupobriones.com.ar`, `skaladesarrollos.com`, `lopez.com.ar`, `brikz.com.ar`. Sumar lanzamientos solo si hay precio y superficie.
 
+## Fotos de cada oportunidad
+
+La web muestra una vista previa con fotos del aviso (enlazadas al original, con crédito). Para cada oportunidad nueva cargar hasta 5 URLs en `photos`, la más apaisada y representativa primero, y la fuente en `photoCredit`.
+
+- **Zonaprop:** en el HTML del aviso, tomar las URLs `https://imgar.zonapropcdn.com/avisos/resize/1/00/{id en pares}/1200x1200/{archivo}.jpg` cuya ruta contenga el `postingId` del aviso (así no se mezclan fotos de otros avisos). `photoCredit`: `"Zonaprop"`.
+- **Mercado Libre:** en la galería del aviso, tomar los ids de imagen y armar `https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.webp`. `photoCredit`: `"Mercado Libre"`.
+- Comprobar que cada foto carga. Si ninguna sirve, omitir `photos`: la tarjeta muestra un placeholder.
+- Si un anunciante pide quitar fotos, borrar su `photos`. Para apagarlas en todo el sitio: `showPhotos: false` en `src/lib/site.ts`.
+
 ## Cómo actualizar el archivo
 
 1. Poner `updated` con la fecha de hoy.
 2. Para cada oportunidad que sigue publicada: conservar `id` y `first`. Si cambió el precio, agregar `[hoy, precio]` al final de `hist` y actualizar `usd`.
 3. Sacar las que ya no están publicadas o ya no cumplen los criterios.
-4. Agregar las nuevas con `first` = hoy y `hist` = `[[hoy, precio]]`.
+4. Agregar las nuevas con `first` = hoy, `hist` = `[[hoy, precio]]` y sus `photos` (ver arriba).
 5. Copiar el archivo a `data/historial/AAAA-MM-DD.json`.
 6. Correr `node scripts/validar.mjs`. Si falla, corregir antes de seguir.
 7. Commit con el mensaje `datos: actualización AAAA-MM-DD (+N nuevas, −M salieron)` y push a `main`.
