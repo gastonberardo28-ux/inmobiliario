@@ -1,0 +1,594 @@
+{
+  "updated": "2026-10-24",
+  "medians": {
+    "Núñez": 2937,
+    "Saavedra": 2710,
+    "Coghlan": 2750,
+    "Olivos": 2983,
+    "Vicente López": 2846,
+    "Florida": 2600,
+    "Florida Oeste": 2200,
+    "Martínez": 2700
+  },
+  "items": [
+    {
+      "id": "deanfunes1449",
+      "name": "Dean Funes 1449",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 80,
+      "ext": 12,
+      "usd": 150000,
+      "fin": "Anticipo + 30 cuotas",
+      "del": "Dic 2028",
+      "stage": "En pozo",
+      "dev": "No informada en el aviso",
+      "note": "Dúplex en esquina con cochera y amenities. Confirmar que el precio no sea solo el anticipo.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-3822360140-venta-depto-florida-3-amben-dulex-pa-con-cochera-y-amenitiesant-y-fnanciacion-30-cuotas-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "antartida2160",
+      "name": "Antártida Argentina 2160",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 67,
+      "ext": 70,
+      "usd": 190000,
+      "fin": "USD 20.000 + hasta 120 cuotas",
+      "del": "Obra comenzada",
+      "stage": "En construcción",
+      "dev": "Constructora no nombrada; comercializa Bellagamba",
+      "note": "3 amb con terraza propia con playroom y cochera cubierta incluida.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          190000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-venta-florida-3-ambientes-con-terraza-58096667.html"
+        ]
+      ]
+    },
+    {
+      "id": "balbin3194",
+      "name": "Av. Balbín 3194",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 57,
+      "ext": 4,
+      "usd": 120360,
+      "fin": "Contado, o 70% + cuotas hasta la posesión",
+      "del": "Mar 2027",
+      "stage": "En construcción",
+      "dev": "Nemovi SAS",
+      "note": "Entrega en meses. Quedan 2 unidades.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          120360
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-balbin-3194-saavedra-en-construccion-52555116.html"
+        ]
+      ]
+    },
+    {
+      "id": "ugarte2055",
+      "name": "Ugarte 2055",
+      "zone": "Olivos",
+      "amb": 3,
+      "cub": 77,
+      "ext": 0,
+      "usd": 172800,
+      "fin": "40% + 24 cuotas ajustadas por ICAC",
+      "del": "Dic 2027",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa GISI LM",
+      "note": "3 amb con 2 baños, vestidor y parrilla propia. Edificio de 15 unidades. También hay una de 85 m² a USD 190.740.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          172800
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre 77 m²",
+          "https://departamento.mercadolibre.com.ar/MLA-1947817111-olivos-departamento-3-ambientes-2-banos-_JM"
+        ],
+        [
+          "Mercado Libre 85 m²",
+          "https://departamento.mercadolibre.com.ar/MLA-3724573916-departamento-3-amb-vestidor-2-banos-parrilla-propia-olivos-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "altosnunez",
+      "name": "Altos de Núñez",
+      "zone": "Núñez",
+      "amb": 2,
+      "cub": 76,
+      "ext": 18,
+      "usd": 190740,
+      "fin": "Consultar",
+      "del": "Inmediata",
+      "stage": "Terminado",
+      "dev": "No informada",
+      "note": "Prácticamente terminado: se puede ver antes de pagar. Queda 1 unidad.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          190740
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-altos-de-nunez-57373774.html"
+        ]
+      ]
+    },
+    {
+      "id": "melian2781",
+      "name": "Melián 2781",
+      "zone": "Coghlan",
+      "amb": 3,
+      "cub": 66,
+      "ext": 6,
+      "usd": 150500,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "En pozo",
+      "dev": "No informada",
+      "note": "Edificio de 7 plantas con doble fachada en la zona residencial de Coghlan.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150500
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-3-ambientes-de-pozo-en-coghlan-60022862.html"
+        ],
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2230077189-departamento-3-ambientes-de-pozo-en-coghlan-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "pinto4785",
+      "name": "Pinto 4785",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 55,
+      "ext": 9,
+      "usd": 134605,
+      "fin": "Consultar",
+      "del": "May 2027",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa Lepore",
+      "note": "Edificio de 8 pisos y 13 unidades con terraza social.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          134605
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-pinto-4785-saavedra-capital-federal-58427898.html"
+        ]
+      ]
+    },
+    {
+      "id": "esmeralda3300",
+      "name": "Esmeralda 3300",
+      "zone": "Florida Oeste",
+      "amb": 3,
+      "cub": 78,
+      "ext": 43,
+      "usd": 181750,
+      "fin": "30% USD + 24 cuotas + 4 refuerzos, ajustados por CAC",
+      "del": "Abr 2028",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa Pastori",
+      "note": "Balcón de casi 40 m². Mercado Libre muestra otra unidad similar a USD 134.000: preguntar qué precio rige.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          181750
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-venta-en-pozo-en-florida-oeste-58852172.html"
+        ],
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-3191355484-venta-en-pozo-en-florida-oeste-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "krystal",
+      "name": "Krystal Park Tower",
+      "zone": "Olivos",
+      "amb": 2,
+      "cub": 58,
+      "ext": 10,
+      "usd": 160000,
+      "fin": "Contado o cuotas",
+      "del": "Oct 2029",
+      "stage": "En pozo",
+      "dev": "No informada; comercializa DIC Propiedades",
+      "note": "Torre de 14 pisos con pileta climatizada y cowork. Confirmar superficie cubierta.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          160000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-maipu-3872-krystal-park-tower-exclusiva-torre-55917544.html"
+        ]
+      ]
+    },
+    {
+      "id": "nunez2300",
+      "name": "Núñez 2300",
+      "zone": "Núñez",
+      "amb": 3,
+      "cub": 74,
+      "ext": 3,
+      "usd": 195000,
+      "fin": "40% + cuotas en pesos por CAC",
+      "del": "Oct 2027",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "Uno de los pocos 3 amb grandes de Núñez dentro de USD 200.000.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          195000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2193687771-venta-tres-ambientes-balcon-nunez-desde-pozo-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "jaramillo4300",
+      "name": "Jaramillo 4300",
+      "zone": "Saavedra",
+      "amb": 3,
+      "cub": 70,
+      "ext": 11,
+      "usd": 185000,
+      "fin": "Boleto + 12 cuotas, o hasta 36",
+      "del": "Sep 2027",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "Balcón terraza y toilette; bajas expensas, sin amenities.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          185000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-1986550263-divino-departamento-de-3-ambientes-con-balcon-terraza-y-toilette-en-construccion-en-saavedra-_JM"
+        ]
+      ]
+    },
+    {
+      "id": "esmeralda4520",
+      "name": "Esmeralda 4520",
+      "zone": "Florida Oeste",
+      "amb": 3,
+      "cub": 65,
+      "ext": 5,
+      "usd": 150000,
+      "fin": "USD 15.000 + 150 cuotas",
+      "del": "Sep 2028",
+      "stage": "En pozo",
+      "dev": "No informada; comercializa Bellagamba",
+      "note": "Edificio de 5 unidades con jardín o terraza propia. La financiación más larga.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-esmeralda-4520-58509119.html"
+        ]
+      ]
+    },
+    {
+      "id": "vilela2630",
+      "name": "Vilela 2630",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 52,
+      "ext": 8,
+      "usd": 146000,
+      "fin": "50% USD + saldo en pesos por CAC",
+      "del": "Feb 2027",
+      "stage": "En construcción",
+      "dev": "Nemovi SAS",
+      "note": "Quedan 3 unidades de 60 m², todas con vista abierta.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          146000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vilela-2630-saavedra-en-construccion-56926707.html"
+        ]
+      ]
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent",
+      "zone": "Florida",
+      "amb": 2,
+      "cub": 56,
+      "ext": 6,
+      "usd": 153114,
+      "fin": "Consultar",
+      "del": "Mar 2029",
+      "stage": "En pozo",
+      "dev": "Basso Constructora (según el aviso)",
+      "note": "Sobre Av. Maipú, cerca de la estación Aristóbulo del Valle.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          153114
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vincent-58677215.html"
+        ]
+      ]
+    },
+    {
+      "id": "laprida2475",
+      "name": "Laprida 2475",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 70,
+      "ext": 5,
+      "usd": 187500,
+      "fin": "Consultar",
+      "del": "Nov 2028",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "3 amb amplios con obra en marcha.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          187500
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-laprida-2475-florida-58287007.html"
+        ]
+      ]
+    },
+    {
+      "id": "conde2700",
+      "name": "Conde 2700",
+      "zone": "Coghlan",
+      "amb": 3,
+      "cub": 66,
+      "ext": 14,
+      "usd": 195000,
+      "fin": "40% USD + cuotas hasta jul 2027",
+      "del": "Ago 2027",
+      "stage": "En construcción",
+      "dev": "Fideicomiso al costo",
+      "note": "Al ser al costo, el precio final puede subir.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          195000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-conde-2700-56056273.html"
+        ]
+      ]
+    },
+    {
+      "id": "sanmartin2200",
+      "name": "Av. San Martín 2200",
+      "zone": "Florida",
+      "amb": 4,
+      "cub": 97,
+      "ext": 7,
+      "usd": 108500,
+      "fin": "Financiación en etapa cero (consultar)",
+      "del": "A confirmar",
+      "stage": "En pozo (etapa cero)",
+      "dev": "No informada en el aviso",
+      "note": "4 amb con balcón aterrazado en una semitorre de 4 pisos con pileta. El precio está muy por debajo del mercado: confirmar que no sea solo el anticipo.",
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2232074593-venta-departamento-florida-vicente-lopez-3-dormitorios-2-banos-en-construccion-_JM"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          108500
+        ]
+      ]
+    },
+    {
+      "id": "borges2700",
+      "name": "Borges 2700",
+      "zone": "Olivos",
+      "amb": 2,
+      "cub": 62,
+      "ext": 10,
+      "usd": 110000,
+      "fin": "Consultar",
+      "del": "Terminado",
+      "stage": "A estrenar",
+      "dev": "No informada en el aviso",
+      "note": "Planta baja con patio y altillo usable como escritorio. Precio muy bajo para Olivos: confirmar que sea a estrenar y sin deudas.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-planta-baja-con-patio-59964712.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          110000
+        ]
+      ]
+    },
+    {
+      "id": "nest3amb",
+      "name": "NEST Towers 3 amb",
+      "zone": "Vicente López",
+      "amb": 3,
+      "cub": 72,
+      "ext": 20,
+      "usd": 185000,
+      "fin": "Consultar",
+      "del": "Jul 2028",
+      "stage": "En construcción",
+      "dev": "Fideicomiso al costo",
+      "note": "3 amb con 2 baños y cochera en dos torres sobre Av. Maipú, con pileta y cowork. Al ser al costo, el precio final puede subir.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-pozo-en-vicente-lopez-60285472.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          185000
+        ]
+      ]
+    },
+    {
+      "id": "melian3534",
+      "name": "Melián 3534",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 55,
+      "ext": 11,
+      "usd": 138000,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "En pozo",
+      "dev": "No informada en el aviso",
+      "note": "2 amb con balcón aterrazado en primer piso, a pasos de Av. Balbín. El aviso habla de últimas unidades.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-de-2-ambientes-en-pozo-venta-saavedra-60403196.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          138000
+        ]
+      ]
+    },
+    {
+      "id": "besares2325",
+      "name": "Besares 2325",
+      "zone": "Núñez",
+      "amb": 2,
+      "cub": 56,
+      "ext": 0,
+      "usd": 141710,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "Preventa",
+      "dev": "No informada en el aviso",
+      "note": "2 amb en piso 10, en preventa exclusiva.",
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2189876907-departamento-dos-ambientes-en-venta-en-pozo-barrio-de-nunez-ciudad-autonoma-de-bs-as-_JM"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          141710
+        ]
+      ]
+    }
+  ]
+}
