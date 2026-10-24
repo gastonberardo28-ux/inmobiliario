@@ -1,4 +1,4 @@
-name: Validar y publicar
+name: Validar, compilar y publicar
 
 on:
   push:
@@ -12,31 +12,54 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  validar:
+  compilar:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
-      - run: node scripts/validar.mjs
+          node-version: 22
+      - name: Validar datos
+        run: node scripts/validar.mjs
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Revisar tipos
+        run: npx tsc --noEmit
+      - name: Compilar sitio estático
+        run: npm run build
+        env:
+          # En GitHub Pages el sitio vive en /inmobiliario
+          NEXT_PUBLIC_BASE_PATH: /inmobiliario
+          NEXT_PUBLIC_SITE_URL: https://gastonberardo28-ux.github.io/inmobiliario
+      - run: touch out/.nojekyll
+      # En los PR se guarda el sitio compilado en la rama "vista-previa" para poder revisarlo
+      - name: Guardar compilado del PR
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        run: |
+          cd out
+          git init -q -b vista-previa
+          git -c user.name=ci -c user.email=ci@users.noreply.github.com add -A
+          git -c user.name=ci -c user.email=ci@users.noreply.github.com commit -qm "Compilado de ${{ github.sha }}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" vista-previa
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: out
 
   publicar:
     if: github.event_name != 'pull_request'
-    needs: validar
+    needs: compilar
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
       - id: deployment
         uses: actions/deploy-pages@v4

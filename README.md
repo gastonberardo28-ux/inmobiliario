@@ -8,12 +8,13 @@ Web que lista departamentos en pozo y en construcción del corredor norte de Bue
 Tarea programada diaria (Claude + Chrome)
         │  revisa Zonaprop, Mercado Libre, Argenprop y webs de desarrolladoras
         ▼
-data/oportunidades.json  ──commit──▶  GitHub  ──Actions──▶  GitHub Pages
-        │                                    │
+data/oportunidades.json  ──commit──▶  GitHub  ──Actions──▶  next build  ──▶  GitHub Pages
+        │                                    │                        └─▶  Vercel (previews de cada PR)
         └─ data/historial/AAAA-MM-DD.json    └─ scripts/validar.mjs frena el deploy si los datos están mal
 ```
 
-- **Sitio estático, sin build.** `index.html`, `assets/styles.css` y `assets/app.js` leen `data/oportunidades.json` en el navegador.
+- **Next.js 15 + Tailwind 4, export estático.** El build lee `data/oportunidades.json` y genera la home, una página por oportunidad (con galería, comparación contra el barrio e historial), metodología, aviso legal, sitemap y robots. Sin servidor.
+- **Código:** `src/app` (rutas), `src/components` (UI), `src/lib/data.ts` (cálculos), `src/lib/site.ts` (textos y configuración).
 - **Datos en un solo archivo.** Cada oportunidad es un objeto en `items`. El historial de precios queda en `hist`.
 - **Foto diaria.** Cada actualización guarda una copia en `data/historial/` para poder ver cómo cambia la oferta.
 - **Validación.** Cada push corre `scripts/validar.mjs`. Si hay un error (precio fuera de rango, zona sin mediana, id duplicado, link roto), la web no se publica.
@@ -41,19 +42,22 @@ Las medianas están en `data/oportunidades.json` → `medians`. Revisarlas una v
 | `note` | Una o dos oraciones propias. No copiar descripciones de los avisos. |
 | `first`, `hist` | Fecha en que apareció y lista de `[fecha, precio]`. |
 | `links` | Lista de `[texto, url]` al aviso original. |
+| `photos`, `photoCredit` | Opcional. Hasta 5 URLs de fotos del aviso (la mejor primero) y la fuente ("Zonaprop", "Mercado Libre"). |
 
 ## Probar en tu compu
 
 ```bash
 npm run validar   # revisa los datos y muestra el ranking
+npm install
 npm run dev       # sirve la web en http://localhost:3000
+npm run build     # genera el sitio estático en out/
 ```
 
-## Publicar con GitHub Pages
+## Publicar
 
-1. En el repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-2. Hacé un push a `main`. El workflow `Validar y publicar` valida y despliega.
-3. La web queda en `https://gastonberardo28-ux.github.io/inmobiliario/`. Para un dominio propio, cargalo en la misma pantalla de Pages.
+**GitHub Pages (producción actual).** Cada push a `main` valida, compila con `NEXT_PUBLIC_BASE_PATH=/inmobiliario` y publica `out/` en `https://gastonberardo28-ux.github.io/inmobiliario/`.
+
+**Vercel (previews y, si querés, producción con dominio propio).** En vercel.com → Add New → Project → importar `inmobiliario`. Framework: Next.js, sin variables. Cada PR recibe un link de preview en un comentario. Para usar Vercel como producción, cargar el dominio en Settings → Domains y definir `NEXT_PUBLIC_SITE_URL` con esa URL.
 
 ## Actualización diaria
 
@@ -61,7 +65,8 @@ El procedimiento completo está en [`docs/actualizacion-diaria.md`](docs/actuali
 
 ## Límites y cuidados legales
 
-- Mostramos solo datos fácticos del aviso (precio, superficie, zona, entrega) y el link a la fuente. No se copian fotos ni descripciones.
+- Mostramos datos fácticos del aviso (precio, superficie, zona, entrega) y el link a la fuente. No se copian descripciones.
+- Las fotos se muestran enlazadas al servidor original, con crédito y link al aviso. Si un anunciante lo pide, se quitan; `showPhotos: false` en `src/lib/site.ts` las apaga todas.
 - Los términos de uso de Zonaprop y Mercado Libre restringen la extracción automática para uso comercial. **Antes de monetizar o escalar, hacer una consulta legal** y evaluar acuerdos directos con inmobiliarias y desarrolladoras.
 - No publicar juicios sobre empresas con nombre propio. El campo `dev` lleva solo hechos.
 - No es una tasación ni una recomendación de inversión. El aviso al pie de la web lo dice.
@@ -69,6 +74,5 @@ El procedimiento completo está en [`docs/actualizacion-diaria.md`](docs/actuali
 ## Próximos pasos
 
 - Alertas por mail o WhatsApp cuando aparece una gema nueva.
-- Página por oportunidad con el gráfico del historial de precios.
 - Fuentes propias: formulario para que desarrolladoras carguen sus lanzamientos.
 - Mover la actualización a un servidor propio cuando haya acuerdos de datos.

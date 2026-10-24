@@ -1,11 +1,26 @@
 {
   "name": "gemas-en-pozo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Departamentos en pozo del corredor norte de Buenos Aires por debajo del precio por m² de su barrio.",
-  "type": "module",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx --yes serve@14.2.4 out",
     "validar": "node scripts/validar.mjs",
-    "dev": "npx --yes serve@14.2.4 ."
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "15.5.28",
+    "react": "19.2.9",
+    "react-dom": "19.2.9"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.8",
+    "@types/node": "22.15.29",
+    "@types/react": "19.1.6",
+    "@types/react-dom": "19.1.5",
+    "tailwindcss": "4.1.8",
+    "typescript": "5.8.3"
   }
 }

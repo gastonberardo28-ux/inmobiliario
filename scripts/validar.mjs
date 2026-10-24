@@ -35,6 +35,11 @@ for (const [i, x] of (D.items ?? []).entries()) {
   for (const l of x.links ?? []) {
     if (!Array.isArray(l) || l.length !== 2 || !/^https:\/\//.test(l[1])) errores.push(`${ref}: link inválido ${JSON.stringify(l)}`);
   }
+  if (x.photos !== undefined) {
+    if (!Array.isArray(x.photos) || x.photos.some((u) => typeof u !== "string" || !/^https:\/\//.test(u))) errores.push(`${ref}: "photos" debe ser una lista de URLs https`);
+    else if (x.photos.length > 8) avisos.push(`${ref}: muchas fotos (${x.photos.length}); con 5 alcanza`);
+    if (x.photos?.length && !x.photoCredit) errores.push(`${ref}: tiene fotos pero falta "photoCredit"`);
+  } else avisos.push(`${ref}: sin fotos (la tarjeta muestra un placeholder)`);
   if ((x.note ?? "").length > 300) avisos.push(`${ref}: la nota es larga (${x.note.length} caracteres)`);
 }
 
