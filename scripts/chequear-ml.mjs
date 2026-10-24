@@ -58,5 +58,7 @@ const resumen = [
   ...dudosos.map((d) => `Sin respuesta clara, no se toca: ${d}`),
 ].join("\n");
 console.log(resumen);
+// Reporte legible del último chequeo (también fuerza un commit diario, que redeploya Vercel).
+writeFileSync(new URL("../data/ultimo-chequeo.json", import.meta.url), JSON.stringify({ fecha: hoy, hora: new Date().toISOString(), activos, bajas: bajas.map((x) => x.id), dudosos }, null, 2) + "\n");
 if (process.env.GITHUB_OUTPUT) appendFileSync(process.env.GITHUB_OUTPUT, `bajas=${bajas.length}\n`);
 if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, resumen.replace(/\n/g, "\n\n") + "\n");
