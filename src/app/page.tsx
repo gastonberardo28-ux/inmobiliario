@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { items, longDate, num, stats, updated, usd, zones, GEM_THRESHOLD } from "@/lib/data";
+import { daysSinceUpdate, items, longDate, num, stats, updated, usd, zones, GEM_THRESHOLD } from "@/lib/data";
 import { site } from "@/lib/site";
 import { PageHero } from "@/components/PageHero";
 import { Filters } from "@/components/Filters";
@@ -96,6 +96,11 @@ export default function Home() {
           title={<>Todas las oportunidades, ordenadas por <Hl>descuento</Hl></>}
           lead="El descuento compara el precio por m² del aviso con la mediana de su barrio. Tocá una tarjeta para ver fotos, financiación e historial de precio."
         />
+        {daysSinceUpdate > 1 && (
+          <p className="card mb-6 border-warn/40 bg-warn-soft p-4 text-sm text-text">
+            La última revisión completa fue el {longDate(updated)}. Ocultamos los avisos que no pudimos volver a verificar.
+          </p>
+        )}
         <Filters items={items} zones={zones} />
       </section>
 
