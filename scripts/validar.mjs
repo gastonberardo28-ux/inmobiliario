@@ -27,6 +27,8 @@ for (const [i, x] of (D.items ?? []).entries()) {
   if (x.ext !== undefined && !(x.ext >= 0 && x.ext <= 200)) errores.push(`${ref}: superficie descubierta fuera de rango (${x.ext})`);
   if (!Number.isInteger(x.amb) || x.amb < 1 || x.amb > 6) errores.push(`${ref}: ambientes inválidos (${x.amb})`);
   if (!fecha.test(x.first ?? "")) errores.push(`${ref}: "first" debe ser YYYY-MM-DD`);
+  if (!fecha.test(x.seen ?? "")) errores.push(`${ref}: falta "seen" (última fecha en que se verificó activo, YYYY-MM-DD)`);
+  else if (x.seen < x.first) errores.push(`${ref}: "seen" es anterior a "first"`);
   if (!Array.isArray(x.hist) || !x.hist.length) errores.push(`${ref}: "hist" vacío`);
   else {
     const ult = x.hist[x.hist.length - 1];

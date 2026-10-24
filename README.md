@@ -41,6 +41,7 @@ Las medianas están en `data/oportunidades.json` → `medians`. Revisarlas una v
 | `dev` | Solo hechos verificables: razón social o "No informada en el aviso". |
 | `note` | Una o dos oraciones propias. No copiar descripciones de los avisos. |
 | `first`, `hist` | Fecha en que apareció y lista de `[fecha, precio]`. |
+| `seen` | Última fecha en que se verificó que el aviso sigue activo. Si pasan más de 2 días, la web lo oculta. |
 | `links` | Lista de `[texto, url]` al aviso original. |
 | `photos`, `photoCredit` | Opcional. Hasta 5 URLs de fotos del aviso (la mejor primero) y la fuente ("Zonaprop", "Mercado Libre"). |
 

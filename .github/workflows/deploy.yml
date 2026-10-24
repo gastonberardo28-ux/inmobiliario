@@ -5,6 +5,10 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  # Todos los días 8:40 (Buenos Aires), después de la tarea diaria con Chrome:
+  # chequea Mercado Libre, saca lo pausado y recompila para ocultar lo que no se verificó.
+  schedule:
+    - cron: "40 11 * * *"
 
 permissions:
   contents: read
@@ -25,6 +29,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Chequear avisos de Mercado Libre
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        id: chequeo
+        run: node scripts/chequear-ml.mjs
+      - name: Guardar el chequeo
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git diff --quiet data/oportunidades.json && exit 0
+          git config user.name "chequeo-diario"
+          git config user.email "chequeo-diario@users.noreply.github.com"
+          git add data/oportunidades.json
+          git commit -m "datos: chequeo automático $(TZ=America/Argentina/Buenos_Aires date +%F) (−${{ steps.chequeo.outputs.bajas }} bajas en Mercado Libre)"
+          git pull --rebase -q origin main && git push -q origin HEAD:main
       - name: Validar datos
         run: node scripts/validar.mjs
       - name: Instalar dependencias

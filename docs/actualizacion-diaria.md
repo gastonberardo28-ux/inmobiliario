@@ -68,9 +68,14 @@ La web muestra una vista previa con fotos del aviso (enlazadas al original, con 
 ## Cómo actualizar el archivo
 
 1. Poner `updated` con la fecha de hoy.
-2. Para cada oportunidad que sigue publicada: conservar `id` y `first`. Si cambió el precio, agregar `[hoy, precio]` al final de `hist` y actualizar `usd`.
-3. Sacar las que ya no están publicadas o ya no cumplen los criterios.
-4. Agregar las nuevas con `first` = hoy, `hist` = `[[hoy, precio]]` y sus `photos` (ver arriba).
+2. Abrir el link de **cada** oportunidad que ya está en el archivo. Si sigue publicada y disponible: poner `seen` = hoy, conservar `id` y `first`, y si cambió el precio agregar `[hoy, precio]` al final de `hist` y actualizar `usd`.
+3. Sacar las que ya no están: aviso pausado o finalizado, link roto o que redirige a un listado, emprendimiento sin la unidad (o sin unidades en el rango de precio), o que ya no cumple los criterios. Señales típicas: Mercado Libre muestra "Publicación pausada" o "finalizada"; Zonaprop redirige a una búsqueda o dice que el aviso no está disponible.
+4. Agregar las nuevas con `first` = hoy, `seen` = hoy, `hist` = `[[hoy, precio]]` y sus `photos` (ver arriba).
 5. Copiar el archivo a `data/historial/AAAA-MM-DD.json`.
 6. Correr `node scripts/validar.mjs`. Si falla, corregir antes de seguir.
 7. Commit con el mensaje `datos: actualización AAAA-MM-DD (+N nuevas, −M salieron)` y push a `main`.
+
+## Red de seguridad automática
+
+- **Chequeo diario en GitHub (8:40).** `scripts/chequear-ml.mjs` abre cada aviso de Mercado Libre: si está activo actualiza `seen`; si está pausado, finalizado o no existe, lo saca. Si parece que se cayó más de la mitad de golpe, no borra nada (probable bloqueo). Zonaprop no se puede chequear desde un servidor porque pide verificación anti-bot.
+- **Vencimiento.** La web oculta sola cualquier oportunidad con `seen` de hace más de 2 días (`MAX_DAYS_UNSEEN` en `src/lib/data.ts`), y avisa en la home si la última revisión completa se atrasó. Así, si un día la tarea con Chrome no corre, lo que no se pudo verificar no queda publicado.

@@ -22,6 +22,7 @@ export type RawItem = {
   links: Link[];
   photos?: string[];
   photoCredit?: string;
+  seen?: string;
 };
 
 export type Item = RawItem & {
@@ -42,6 +43,12 @@ type Raw = { updated: string; medians: Record<string, number>; items: RawItem[] 
 const D = raw as unknown as Raw;
 
 export const GEM_THRESHOLD = 15;
+// Un aviso que nadie verificó activo en más de estos días se oculta solo en el próximo build
+// (el sitio se recompila todos los días aunque no haya datos nuevos).
+export const MAX_DAYS_UNSEEN = 2;
+
+const today = new Date().toLocaleDateString("sv-SE", { timeZone: "America/Argentina/Buenos_Aires" });
+const daysBetween = (a: string, b: string) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000);
 export const updated = D.updated;
 export const medians = D.medians;
 
@@ -69,7 +76,13 @@ function enrich(x: RawItem): Item {
   };
 }
 
-export const items: Item[] = D.items.map(enrich).sort((a, b) => b.disc - a.disc);
+export const items: Item[] = D.items
+  .filter((x) => daysBetween(x.seen ?? x.first, today) <= MAX_DAYS_UNSEEN)
+  .map(enrich)
+  .sort((a, b) => b.disc - a.disc);
+
+// Días desde la última actualización completa; la home avisa si los datos se atrasan.
+export const daysSinceUpdate = daysBetween(D.updated, today);
 
 export function getItem(id: string) {
   return items.find((x) => x.id === id);
