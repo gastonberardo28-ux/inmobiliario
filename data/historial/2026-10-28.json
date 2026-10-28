@@ -1,0 +1,927 @@
+{
+  "updated": "2026-10-28",
+  "medians": {
+    "Núñez": 2937,
+    "Saavedra": 2710,
+    "Coghlan": 2750,
+    "Olivos": 2983,
+    "Vicente López": 2846,
+    "Florida": 2600,
+    "Florida Oeste": 2200,
+    "Martínez": 2700
+  },
+  "items": [
+    {
+      "id": "deanfunes1449",
+      "name": "Dean Funes 1449",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 80,
+      "ext": 12,
+      "usd": 150000,
+      "fin": "Anticipo + 30 cuotas",
+      "del": "Dic 2028",
+      "stage": "En pozo",
+      "dev": "No informada en el aviso",
+      "note": "Dúplex en esquina con cochera y amenities. Confirmar que el precio no sea solo el anticipo.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-3822360140-venta-depto-florida-3-amben-dulex-pa-con-cochera-y-amenitiesant-y-fnanciacion-30-cuotas-_JM"
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_640952-MLA119261435155_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_974427-MLA117481806180_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_806600-MLA119085581347_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_722975-MLA117481893994_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_667971-MLA117481893996_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "antartida2160",
+      "name": "Antártida Argentina 2160",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 67,
+      "ext": 70,
+      "usd": 190000,
+      "fin": "USD 20.000 + hasta 120 cuotas",
+      "del": "Obra comenzada",
+      "stage": "En construcción",
+      "dev": "Constructora no nombrada; comercializa Bellagamba",
+      "note": "3 amb con terraza propia con playroom y cochera cubierta incluida.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          190000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-venta-florida-3-ambientes-con-terraza-58096667.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/09/66/67/1200x1200/2058364617.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/09/66/67/1200x1200/2078963726.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/09/66/67/1200x1200/2025442011.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/09/66/67/1200x1200/2025442001.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/09/66/67/1200x1200/2025442009.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "balbin3194",
+      "name": "Av. Balbín 3194",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 57,
+      "ext": 4,
+      "usd": 120360,
+      "fin": "Contado, o 70% + cuotas hasta la posesión",
+      "del": "Mar 2027",
+      "stage": "En construcción",
+      "dev": "Nemovi SAS",
+      "note": "Entrega en meses. Quedan 2 unidades.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          120360
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-balbin-3194-saavedra-en-construccion-52555116.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/52/55/51/16/1200x1200/2070848747.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/52/55/51/16/1200x1200/2072989688.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/52/55/51/16/1200x1200/2061939454.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/52/55/51/16/1200x1200/2072977283.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/52/55/51/16/1200x1200/2061929514.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "ugarte2055",
+      "name": "Ugarte 2055",
+      "zone": "Olivos",
+      "amb": 3,
+      "cub": 77,
+      "ext": 0,
+      "usd": 172800,
+      "fin": "40% + 24 cuotas ajustadas por ICAC",
+      "del": "Dic 2027",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa GISI LM",
+      "note": "3 amb con 2 baños, vestidor y parrilla propia. Edificio de 15 unidades. También hay una de 85 m² a USD 190.740.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          172800
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre 77 m²",
+          "https://departamento.mercadolibre.com.ar/MLA-1947817111-olivos-departamento-3-ambientes-2-banos-_JM"
+        ],
+        [
+          "Mercado Libre 85 m²",
+          "https://departamento.mercadolibre.com.ar/MLA-3724573916-departamento-3-amb-vestidor-2-banos-parrilla-propia-olivos-_JM"
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_757791-MLA117564963536_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_839429-MLA117564963538_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_696636-MLA117564963540_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_845762-MLA117564963542_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_815037-MLA117564963544_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "altosnunez",
+      "name": "Altos de Núñez",
+      "zone": "Núñez",
+      "amb": 2,
+      "cub": 76,
+      "ext": 18,
+      "usd": 190740,
+      "fin": "Consultar",
+      "del": "Inmediata",
+      "stage": "Terminado",
+      "dev": "No informada",
+      "note": "Prácticamente terminado: se puede ver antes de pagar. Queda 1 unidad.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          190740
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-altos-de-nunez-57373774.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/57/37/37/74/1200x1200/2051403168.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/57/37/37/74/1200x1200/2051402844.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/57/37/37/74/1200x1200/2051403482.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/57/37/37/74/1200x1200/2051403905.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/57/37/37/74/1200x1200/2051403729.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "melian2781",
+      "name": "Melián 2781",
+      "zone": "Coghlan",
+      "amb": 3,
+      "cub": 66,
+      "ext": 6,
+      "usd": 150500,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "En pozo",
+      "dev": "No informada",
+      "note": "Edificio de 7 plantas con doble fachada en la zona residencial de Coghlan.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150500
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-3-ambientes-de-pozo-en-coghlan-60022862.html"
+        ],
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2230077189-departamento-3-ambientes-de-pozo-en-coghlan-_JM"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/02/28/62/1200x1200/2075340164.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/02/28/62/1200x1200/2075340111.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/02/28/62/1200x1200/2075340131.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/02/28/62/1200x1200/2075340042.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/02/28/62/1200x1200/2075340184.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "pinto4785",
+      "name": "Pinto 4785",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 55,
+      "ext": 9,
+      "usd": 134605,
+      "fin": "Consultar",
+      "del": "May 2027",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa Lepore",
+      "note": "Edificio de 8 pisos y 13 unidades con terraza social.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          134605
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-pinto-4785-saavedra-capital-federal-58427898.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/42/78/98/1200x1200/2034611384.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/42/78/98/1200x1200/2034611400.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/42/78/98/1200x1200/2034611401.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/42/78/98/1200x1200/2034611358.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/42/78/98/1200x1200/2085757687.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "esmeralda3300",
+      "name": "Esmeralda 3300",
+      "zone": "Florida Oeste",
+      "amb": 3,
+      "cub": 78,
+      "ext": 43,
+      "usd": 181750,
+      "fin": "30% USD + 24 cuotas + 4 refuerzos, ajustados por CAC",
+      "del": "Abr 2028",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa Pastori",
+      "note": "Balcón de casi 40 m². Mercado Libre muestra otra unidad similar a USD 134.000: preguntar qué precio rige.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          181750
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-venta-en-pozo-en-florida-oeste-58852172.html"
+        ],
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-3191355484-venta-en-pozo-en-florida-oeste-_JM"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/85/21/72/1200x1200/2050452727.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/85/21/72/1200x1200/2050452733.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/85/21/72/1200x1200/2050452731.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/85/21/72/1200x1200/2050452735.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/85/21/72/1200x1200/2066310961.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "krystal",
+      "name": "Krystal Park Tower",
+      "zone": "Olivos",
+      "amb": 2,
+      "cub": 58,
+      "ext": 10,
+      "usd": 160000,
+      "fin": "Contado o cuotas",
+      "del": "Oct 2029",
+      "stage": "En pozo",
+      "dev": "No informada; comercializa DIC Propiedades",
+      "note": "Torre de 14 pisos con pileta climatizada y cowork. Confirmar superficie cubierta.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          160000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-av-maipu-3872-krystal-park-tower-exclusiva-torre-55917544.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/55/91/75/44/1200x1200/1967842093.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/55/91/75/44/1200x1200/1967842075.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/55/91/75/44/1200x1200/1967842074.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/55/91/75/44/1200x1200/1967842071.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/55/91/75/44/1200x1200/1967842115.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "nunez2300",
+      "name": "Núñez 2300",
+      "zone": "Núñez",
+      "amb": 3,
+      "cub": 74,
+      "ext": 3,
+      "usd": 195000,
+      "fin": "40% + cuotas en pesos por CAC",
+      "del": "Oct 2027",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "Uno de los pocos 3 amb grandes de Núñez dentro de USD 200.000.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          195000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2193687771-venta-tres-ambientes-balcon-nunez-desde-pozo-_JM"
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_954032-MLA119431497291_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_711035-MLA119431497293_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_886110-MLA119431497295_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_714446-MLA119431497297_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_977855-MLA119431497299_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "jaramillo4300",
+      "name": "Jaramillo 4300",
+      "zone": "Saavedra",
+      "amb": 3,
+      "cub": 70,
+      "ext": 11,
+      "usd": 185000,
+      "fin": "Boleto + 12 cuotas, o hasta 36",
+      "del": "Sep 2027",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "Balcón terraza y toilette; bajas expensas, sin amenities.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          185000
+        ]
+      ],
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-1986550263-divino-departamento-de-3-ambientes-con-balcon-terraza-y-toilette-en-construccion-en-saavedra-_JM"
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_805178-MLA117147058218_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_909754-MLA117147058220_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_744501-MLA117147058222_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_784589-MLA117147058224_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_600925-MLA117147058226_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "esmeralda4520",
+      "name": "Esmeralda 4520",
+      "zone": "Florida Oeste",
+      "amb": 3,
+      "cub": 65,
+      "ext": 5,
+      "usd": 150000,
+      "fin": "USD 15.000 + 150 cuotas",
+      "del": "Sep 2028",
+      "stage": "En pozo",
+      "dev": "No informada; comercializa Bellagamba",
+      "note": "Edificio de 5 unidades con jardín o terraza propia. La financiación más larga.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          150000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-esmeralda-4520-58509119.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/50/91/19/1200x1200/2078965125.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/50/91/19/1200x1200/2036860070.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/50/91/19/1200x1200/2036860077.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/50/91/19/1200x1200/2058511431.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/50/91/19/1200x1200/2036860074.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "vilela2630",
+      "name": "Vilela 2630",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 52,
+      "ext": 8,
+      "usd": 146000,
+      "fin": "50% USD + saldo en pesos por CAC",
+      "del": "Feb 2027",
+      "stage": "En construcción",
+      "dev": "Nemovi SAS",
+      "note": "Quedan 3 unidades de 60 m², todas con vista abierta.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          146000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vilela-2630-saavedra-en-construccion-56926707.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/92/67/07/1200x1200/2070846955.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/92/67/07/1200x1200/1994242344.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/92/67/07/1200x1200/2083713054.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/92/67/07/1200x1200/2066941138.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/92/67/07/1200x1200/1994242324.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent",
+      "zone": "Florida",
+      "amb": 2,
+      "cub": 56,
+      "ext": 6,
+      "usd": 153114,
+      "fin": "Consultar",
+      "del": "Mar 2029",
+      "stage": "En pozo",
+      "dev": "Basso Constructora (según el aviso)",
+      "note": "Sobre Av. Maipú, cerca de la estación Aristóbulo del Valle.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          153114
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-vincent-58677215.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/72/15/1200x1200/2041534132.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/72/15/1200x1200/2041534133.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/72/15/1200x1200/2041534126.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/72/15/1200x1200/2041534125.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/72/15/1200x1200/2041534124.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "laprida2475",
+      "name": "Laprida 2475",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 70,
+      "ext": 5,
+      "usd": 187500,
+      "fin": "Consultar",
+      "del": "Nov 2028",
+      "stage": "En construcción",
+      "dev": "No informada",
+      "note": "3 amb amplios con obra en marcha.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          187500
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-laprida-2475-florida-58287007.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/28/70/07/1200x1200/2066467956.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/28/70/07/1200x1200/2066467965.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/28/70/07/1200x1200/2066467903.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/28/70/07/1200x1200/2066467912.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/28/70/07/1200x1200/2066467945.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "conde2700",
+      "name": "Conde 2700",
+      "zone": "Coghlan",
+      "amb": 3,
+      "cub": 66,
+      "ext": 14,
+      "usd": 195000,
+      "fin": "40% USD + cuotas hasta jul 2027",
+      "del": "Ago 2027",
+      "stage": "En construcción",
+      "dev": "Fideicomiso al costo",
+      "note": "Al ser al costo, el precio final puede subir.",
+      "first": "2026-10-23",
+      "hist": [
+        [
+          "2026-10-23",
+          195000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-conde-2700-56056273.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/05/62/73/1200x1200/1971285505.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/05/62/73/1200x1200/1971285508.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/05/62/73/1200x1200/1971285506.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/05/62/73/1200x1200/1971285507.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/56/05/62/73/1200x1200/1971285503.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "sanmartin2200",
+      "name": "Av. San Martín 2200",
+      "zone": "Florida",
+      "amb": 4,
+      "cub": 97,
+      "ext": 7,
+      "usd": 108500,
+      "fin": "Financiación en etapa cero (consultar)",
+      "del": "A confirmar",
+      "stage": "En pozo (etapa cero)",
+      "dev": "No informada en el aviso",
+      "note": "4 amb con balcón aterrazado en una semitorre de 4 pisos con pileta. El precio está muy por debajo del mercado: confirmar que no sea solo el anticipo.",
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2232074593-venta-departamento-florida-vicente-lopez-3-dormitorios-2-banos-en-construccion-_JM"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          108500
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_637828-MLA118477965968_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_609613-MLA118477965970_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_908065-MLA118477965972_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_960259-MLA118477965974_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_995631-MLA118477965976_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "borges2700",
+      "name": "Borges 2700",
+      "zone": "Olivos",
+      "amb": 2,
+      "cub": 62,
+      "ext": 10,
+      "usd": 110000,
+      "fin": "Consultar",
+      "del": "Terminado",
+      "stage": "A estrenar",
+      "dev": "No informada en el aviso",
+      "note": "Planta baja con patio y altillo usable como escritorio. Precio muy bajo para Olivos: confirmar que sea a estrenar y sin deudas.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-planta-baja-con-patio-59964712.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          110000
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/96/47/12/1200x1200/2073896552.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/96/47/12/1200x1200/2073896591.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/96/47/12/1200x1200/2073896557.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/96/47/12/1200x1200/2073896599.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/96/47/12/1200x1200/2073896603.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "nest3amb",
+      "name": "NEST Towers 3 amb",
+      "zone": "Vicente López",
+      "amb": 3,
+      "cub": 72,
+      "ext": 20,
+      "usd": 185000,
+      "fin": "Consultar",
+      "del": "Jul 2028",
+      "stage": "En construcción",
+      "dev": "Fideicomiso al costo",
+      "note": "3 amb con 2 baños y cochera en dos torres sobre Av. Maipú, con pileta y cowork. Al ser al costo, el precio final puede subir.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-pozo-en-vicente-lopez-60285472.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          185000
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/28/54/72/1200x1200/2081814275.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/28/54/72/1200x1200/2081814281.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/28/54/72/1200x1200/2081814285.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/28/54/72/1200x1200/2081814277.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/28/54/72/1200x1200/2081814288.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "melian3534",
+      "name": "Melián 3534",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 55,
+      "ext": 11,
+      "usd": 138000,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "En pozo",
+      "dev": "No informada en el aviso",
+      "note": "2 amb con balcón aterrazado en primer piso, a pasos de Av. Balbín. El aviso habla de últimas unidades.",
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-de-2-ambientes-en-pozo-venta-saavedra-60403196.html"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          138000
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/40/31/96/1200x1200/2084579385.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/40/31/96/1200x1200/2084579364.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/40/31/96/1200x1200/2084579370.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/40/31/96/1200x1200/2084579377.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/40/31/96/1200x1200/2084579352.jpg"
+      ],
+      "photoCredit": "Zonaprop",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "besares2325",
+      "name": "Besares 2325",
+      "zone": "Núñez",
+      "amb": 2,
+      "cub": 56,
+      "ext": 0,
+      "usd": 141710,
+      "fin": "Consultar",
+      "del": "A confirmar",
+      "stage": "Preventa",
+      "dev": "No informada en el aviso",
+      "note": "2 amb en piso 10, en preventa exclusiva.",
+      "links": [
+        [
+          "Mercado Libre",
+          "https://departamento.mercadolibre.com.ar/MLA-2189876907-departamento-dos-ambientes-en-venta-en-pozo-barrio-de-nunez-ciudad-autonoma-de-bs-as-_JM"
+        ]
+      ],
+      "first": "2026-10-24",
+      "hist": [
+        [
+          "2026-10-24",
+          141710
+        ]
+      ],
+      "photos": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_709473-MLA117719235672_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_911825-MLA117719235674_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_935723-MLA117719235678_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_820912-MLA117719235680_102026-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_902778-MLA117719235682_102026-F.webp"
+      ],
+      "photoCredit": "Mercado Libre",
+      "seen": "2026-10-28"
+    },
+    {
+      "id": "estanislao-lasheras",
+      "name": "Estanislao del Campo y Las Heras",
+      "zone": "Florida",
+      "amb": 3,
+      "cub": 83,
+      "ext": 31,
+      "usd": 180000,
+      "fin": "Consultar",
+      "del": "Oct 2026 (estimada)",
+      "stage": "En pozo",
+      "dev": "No informada; comercializa Laura Jorge Propiedades",
+      "note": "Planta baja con patio propio de 31 m² en un edificio chico de 4 unidades. La entrega estimada es este mes: conviene preguntar cómo va la obra.",
+      "first": "2026-10-28",
+      "seen": "2026-10-28",
+      "hist": [
+        [
+          "2026-10-28",
+          180000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-estanislao-del-campo-esq.-las-heras-59861495.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/86/14/96/1200x1200/2071510010.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/86/14/96/1200x1200/2071509987.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/86/14/96/1200x1200/2071510003.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/86/14/96/1200x1200/2071510041.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/86/14/96/1200x1200/2071510035.jpg"
+      ],
+      "photoCredit": "Zonaprop"
+    },
+    {
+      "id": "esmeralda4500terraza",
+      "name": "Esmeralda 4500 (con terraza)",
+      "zone": "Florida Oeste",
+      "amb": 3,
+      "cub": 65,
+      "ext": 65,
+      "usd": 170000,
+      "fin": "Contado con descuento o financiación en cuotas",
+      "del": "Ago 2028",
+      "stage": "En construcción",
+      "dev": "No informada; comercializa Molinari",
+      "note": "Unidad con terraza propia casi del tamaño del departamento, en un edificio de 5 unidades. Mismo proyecto que Esmeralda 4520, pero otra unidad y otro precio.",
+      "first": "2026-10-28",
+      "seen": "2026-10-28",
+      "hist": [
+        [
+          "2026-10-28",
+          170000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/clasificado/veclapin-departamento-en-florida-oeste-58673105.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/31/05/1200x1200/2041395089.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/31/05/1200x1200/2041393708.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/31/05/1200x1200/2041393700.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/31/05/1200x1200/2041393699.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/58/67/31/05/1200x1200/2041393702.jpg"
+      ],
+      "photoCredit": "Zonaprop"
+    },
+    {
+      "id": "correa3080",
+      "name": "Correa 3080",
+      "zone": "Saavedra",
+      "amb": 3,
+      "cub": 54,
+      "ext": 48,
+      "usd": 172000,
+      "fin": "40% de anticipo en USD y saldo en cuotas (pesos con CAC o USD con 1% mensual)",
+      "del": "Nov 2027",
+      "stage": "En construcción",
+      "dev": "No informada en el aviso",
+      "note": "Planta baja con jardín grande en un edificio de baja altura, a pocas cuadras del Parque Saavedra. Buena parte del metraje es descubierto.",
+      "first": "2026-10-28",
+      "seen": "2026-10-28",
+      "hist": [
+        [
+          "2026-10-28",
+          172000
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-correa-3080-en-construccion-60071154.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/07/11/62/1200x1200/2076491843.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/07/11/62/1200x1200/2076491746.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/07/11/62/1200x1200/2076491828.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/07/11/62/1200x1200/2076491692.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/60/07/11/62/1200x1200/2086702143.jpg"
+      ],
+      "photoCredit": "Zonaprop"
+    },
+    {
+      "id": "paroissien4646",
+      "name": "Paroissien 4646",
+      "zone": "Saavedra",
+      "amb": 2,
+      "cub": 52,
+      "ext": 28,
+      "usd": 151956,
+      "fin": "30% de anticipo + 18 cuotas",
+      "del": "May 2027",
+      "stage": "En construcción",
+      "dev": "No informada en el aviso",
+      "note": "Unidad de 80 m² totales en un edificio de 10 unidades. El portal la lista como 2 ambientes y el título dice 3: confirmar la tipología.",
+      "first": "2026-10-28",
+      "seen": "2026-10-28",
+      "hist": [
+        [
+          "2026-10-28",
+          151956
+        ]
+      ],
+      "links": [
+        [
+          "Zonaprop",
+          "https://www.zonaprop.com.ar/propiedades/emprendimiento/ememvein-paroissien-4646-59996778.html"
+        ]
+      ],
+      "photos": [
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/99/67/84/1200x1200/2074659095.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/99/67/84/1200x1200/2074659139.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/99/67/84/1200x1200/2074659058.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/99/67/84/1200x1200/2074659130.jpg",
+        "https://imgar.zonapropcdn.com/avisos/resize/1/00/59/99/67/84/1200x1200/2074659174.jpg"
+      ],
+      "photoCredit": "Zonaprop"
+    }
+  ]
+}
