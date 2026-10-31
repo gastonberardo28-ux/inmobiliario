@@ -1,14 +1,15 @@
 {
-  "fecha": "2026-10-30",
-  "hora": "2026-10-30T17:08:49.241Z",
+  "fecha": "2026-10-31",
+  "hora": "2026-10-31T16:18:27.892Z",
   "activos": [
-    "deanfunes1449",
     "ugarte2055",
     "nunez2300",
     "jaramillo4300",
     "sanmartin2200",
     "besares2325"
   ],
-  "bajas": [],
+  "bajas": [
+    "deanfunes1449"
+  ],
   "dudosos": []
 }

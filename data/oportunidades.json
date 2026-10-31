@@ -12,42 +12,6 @@
   },
   "items": [
     {
-      "id": "deanfunes1449",
-      "name": "Dean Funes 1449",
-      "zone": "Florida",
-      "amb": 3,
-      "cub": 80,
-      "ext": 12,
-      "usd": 150000,
-      "fin": "Anticipo + 30 cuotas",
-      "del": "Dic 2028",
-      "stage": "En pozo",
-      "dev": "No informada en el aviso",
-      "note": "Dúplex en esquina con cochera y amenities. Confirmar que el precio no sea solo el anticipo.",
-      "first": "2026-10-23",
-      "hist": [
-        [
-          "2026-10-23",
-          150000
-        ]
-      ],
-      "links": [
-        [
-          "Mercado Libre",
-          "https://departamento.mercadolibre.com.ar/MLA-3822360140-venta-depto-florida-3-amben-dulex-pa-con-cochera-y-amenitiesant-y-fnanciacion-30-cuotas-_JM"
-        ]
-      ],
-      "photos": [
-        "https://http2.mlstatic.com/D_NQ_NP_2X_640952-MLA119261435155_102026-F.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_2X_974427-MLA117481806180_102026-F.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_2X_806600-MLA119085581347_102026-F.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_2X_722975-MLA117481893994_102026-F.webp",
-        "https://http2.mlstatic.com/D_NQ_NP_2X_667971-MLA117481893996_102026-F.webp"
-      ],
-      "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
-    },
-    {
       "id": "antartida2160",
       "name": "Antártida Argentina 2160",
       "zone": "Florida",
@@ -157,7 +121,7 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_815037-MLA117564963544_102026-F.webp"
       ],
       "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "altosnunez",
@@ -381,7 +345,7 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_977855-MLA119431497299_102026-F.webp"
       ],
       "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "jaramillo4300",
@@ -417,7 +381,7 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_600925-MLA117147058226_102026-F.webp"
       ],
       "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "esmeralda4520",
@@ -633,7 +597,7 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_995631-MLA118477965976_102026-F.webp"
       ],
       "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "borges2700",
@@ -777,7 +741,7 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_902778-MLA117719235682_102026-F.webp"
       ],
       "photoCredit": "Mercado Libre",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "estanislao-lasheras",
