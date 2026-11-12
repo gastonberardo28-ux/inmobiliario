@@ -1,13 +1,16 @@
 {
-  "fecha": "2026-11-11",
-  "hora": "2026-11-11T18:51:23.390Z",
+  "fecha": "2026-11-12",
+  "hora": "2026-11-12T19:05:52.095Z",
   "activos": [],
   "bajas": [],
   "dudosos": [
+    "balbin3194 (HTTP 200)",
     "ugarte2055 (HTTP 200)",
     "nunez2300 (HTTP 200)",
     "jaramillo4300 (HTTP 200)",
     "sanmartin2200 (HTTP 200)",
-    "besares2325 (HTTP 200)"
+    "besares2325 (HTTP 200)",
+    "cabildo4600 (HTTP 200)",
+    "laprida2475-2b (HTTP 200)"
   ]
 }
